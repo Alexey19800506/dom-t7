@@ -1,4 +1,4 @@
 export function clearList() {
-    const clearElem = document.querySelector('.cotegories');
+    const clearElem = document.querySelector('.categories');
     clearElem.innerHTML = '';
 }
